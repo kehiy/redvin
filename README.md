@@ -1,2 +1,2 @@
 # redvino
-a P2P JSON sharing network
+Modular P2P Network
